@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript operators</title>
+</head>
+<body>
+<h2>JS Operators</h2>
+<p>The assignment operator (=) assigns a value to a variable.</p>
+<p>The addition operator (+) adds numbers:</p>
+<p>The multiplication operator (*) multiplies numbers.</p>
+
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<p id="demo3"></p>
+<p id="demo4"></p>
+<p id="demo5"></p>
+<p id="demo6"></p>
+
+<script>
+
+    function calculateExpressions() {
+
+        var r = 6;
+        r = Math.pow(r, 2);
+
+        var s = 144;
+        s += 23; // x = x + 23;
+
+        var t = 14.4;
+        t -= Math.PI; // y = y - 3.14;
+
+        var u = 45.054;
+        u %= 9; // z = z % 9;
+
+        var x = 4421;
+        x /= 4; // x = x / 4
+
+        var y = 21000.102;
+        y *= 0; // y = y * 0;
+
+        var z = 21;
+        z = z + 4; // like algebra
+
+        // print out in browser
+        document.getElementById("demo").innerHTML = r;
+        document.getElementById("demo1").innerHTML = s;
+        document.getElementById("demo2").innerHTML = t;
+        document.getElementById("demo3").innerHTML = u;
+        document.getElementById("demo4").innerHTML = x;
+        document.getElementById("demo5").innerHTML = y;
+        document.getElementById("demo6").innerHTML = z;
+    }
+
+    function concatenateStrings() {
+        var txt1 = "John";
+        var txt2 = "Doe";
+        document.getElementById("str").innerHTML = txt1 + " " + txt2;
+
+        var txt3 = "What a very ";
+        txt3 += "nice day";
+        document.getElementById("str1").innerHTML = txt3;
+    }
+
+    //simple example of data types in JS: numbers, strings, objects and more...
+    var length = 16;                               // Number
+    var lastName = "Johnson";                      // String
+    var x = {firstName: "John", lastName: "Doe"};    // Object
+
+    var xl = 16 + 4 + "Volvo"; // Result: 20Volvo
+    var xxl = "Volvo" + 16 + 4; // Result: Volvo164
+
+    // JavaScript has dynamic types.
+    // This means that the same variable can be used to hold different data types:
+    var sp;               // Now sp is undefined
+    var sp = 5;           // Now sp is a Number
+    var sp = "John";      // Now sp is a String
+
+</script>
+
+<button type="button" onclick="calculateExpressions()">Click me!</button>
+
+<p>The + operator concatenates (adds) strings.</p>
+<p>The assignment operator += can concatenate strings.</p>
+
+<h4>When used on strings, the + operator is called the concatenation operator.</h4>
+<h4>If you add a number and a string, the result will be a string!</h4>
+
+<h4>When adding a number and a string, JavaScript will treat the number as a string.</h4>
+
+<p id="str"></p>
+<p id="str1"></p>
+
+<button type="button" onclick="concatenateStrings()">Click me too!</button>
+
+
+<p id="num"></p>
+<p id="cars"></p>
+
+<script>
+    var x1 = 34.00;
+    var x2 = 34;
+    var y = 123e5; // 12300000
+    var z = 123e-5; //0.00123
+
+    document.getElementById("num").innerHTML = x1 + "<br>" + x2 + "<br>" + y + "<br>" + z;
+
+    // Arrays
+    var arr = ['BMW', 'Tesla', 'Toyota'];
+    document.getElementById('cars').innerHTML = arr[1];
+
+    // Objects
+    var person = {firstName: "John", lastName: "Doe", age: 50, eyeColor: "blue", cat: "Garfield"};
+
+    // Operator typeof
+    typeof "";                 // Returns "string"
+    typeof "John";           // Returns "string"
+    typeof "John Doe";        // Returns "string"
+
+    typeof 0;                // Returns "number"
+    typeof 314;             // Returns "number"
+    typeof 3.14;            // Returns "number"
+    typeof (3);           // Returns "number"
+    typeof (3 + 4);           // Returns "number"
+
+    // primitive types: string, number, boolean, null, undefined
+    function getDataTypes() {
+        var a;
+        var b = null;
+
+        document.getElementById("types").innerHTML =
+            typeof "john" + "<br>" +
+            typeof 3.14 + "<br>" +
+            typeof true + "<br>" +
+            typeof false + "<br>" +
+            typeof a + "<br>" + // Return undefined
+            typeof b + "<br>" + // Return object
+            typeof [1, 2, 3, 4] + "<br>" + // Returns "object" (not "array", see note below)
+            typeof {name: 'john', age: 34} + "<br>" + // Returns "object"
+            typeof function getDataTypes() { // Returns "function"
+            };
+    }
+
+    var person;                // Value is undefined, type is undefined
+    person = undefined;        // Value is undefined, type is undefined
+    person = null;         // Value is null, but type is still an object
+</script>
+
+<h2>JavaScript typeof</h2>
+<p>The typeof operator returns the type of a variable or an expression.</p>
+<p> The typeof operator returns "object" for arrays because in JavaScript arrays are objects.</p>
+
+<p id="types"></p>
+
+<button type="button" onclick="getDataTypes()">Click me bro!</button>
+
+<h3>Difference Between Undefined and Null</h3>
+<p>You can consider it a bug in JavaScript that typeof null is an object. It should be null.</p>
+<script>
+    typeof undefined;          // undefined
+    typeof null;             // object
+    null === undefined;      // false
+    null == undefined;        // true
+</script>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nice to meet you, JS</title>
+</head>
+<body bgcolor="#f5f5dc">
+
+
+<!-- 1-st task -->
+<p> Today, is a good day!</p>
+
+<p>Now, I can change the text in this HTML page (content)</p>
+<button type="button" onclick="document.getElementById('text').innerHTML='Hello JS, nice to meet you!'">
+    Click me, and you see it!
+</button>
+
+<p id="text">Hello JS!</p>
+
+<hr>
+
+<!-- 2-nd task -->
+<p>That button will be display Date and Time</p>
+<button type="button" onclick="document.getElementById('btn').innerHTML = Date()">
+    Click me, if you want to know date and time
+</button>
+
+<p id="btn"></p>
+
+<hr>
+
+<!-- 3-rd task -->
+<p> Next, next, next...</p>
+<p> Now, I can see you the "simple magic with lightbulb" (work with attribute of an image)</p>
+<p>We have 2 buttons "On" and "Off". Ok, lets go! (Lol, like CS:GO)... Try it!</p>
+
+<button onclick="document.getElementById('btn_on').src='src/light-on.gif'">
+    Click me and you see the light!
+</button>
+
+<img id="btn_on" src="src/light-off.gif" style="width:100px">
+
+<button onclick="document.getElementById('btn_on').src='src/light-off.gif'">
+    Click me and you don't see the light!
+</button>
+
+<hr>
+
+</body>
+</html>

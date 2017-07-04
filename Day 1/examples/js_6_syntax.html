@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript syntax</title>
+</head>
+<body>
+
+<p id="demo"></p>
+<p> Hello... </p>
+<p id="demo1"></p>
+<p>The best place to break a code line is after an operator or a comma.</p>
+
+<script>
+    var x, y, z;
+    x = 5;
+    y = 6;
+    z = x + y;
+    // specific name for variable
+    var _$44_de = 1;
+    document.getElementById("demo").innerHTML = z + _$44_de;
+
+    var a, b, c;
+    a = 1;
+    b = 2;
+    c = a + b;
+    document.getElementById("demo1").innerHTML = c;
+
+    function workWithVars() {
+        var person = "John Doe", carName = "Volvo", prices = 200;
+
+        if (person != null && carName != false && price != carName.length * 25) {
+            var algo = prices * 2;
+            var alco = carName + " Car";
+            var almo = person.length;
+
+            document.getElementById('variable').innerHTML = alco;
+            document.getElementById('variable1').innerHTML = almo;
+            document.getElementById('variable2').innerHTML = algo;
+        } else {
+            document.getElementById('variable_error').innerHTML = "Sorry, you have an error! Try again!";
+        }
+    }
+
+    /*
+     // JavaScript White Space (WS)
+     // that is the simple example WS
+     var person = "Hege";
+     var person="Hege";
+     */
+    function writeText() {
+        document.getElementById('text').innerHTML = "Magic, moments, Memories we’ve been sharing, " +
+            "Magic, moments, When two hearts are caring!";
+
+        // Change heading:
+        document.getElementById("myH").innerHTML = "My First Page";
+        // Change paragraph:
+        document.getElementById("myP").innerHTML = "My first paragraph.";
+
+        var price1 = 5;
+        var price2 = 6;
+        var total = price1 + price2;
+        document.getElementById("price").innerHTML = "The total is: " + total;
+    }
+</script>
+
+<p id="variable"> Variable writing now or not ...</p>
+<p id="variable1"> Variable writing now or not ...</p>
+<p id="variable2"> Variable writing now or not ...</p>
+<br>
+<p id="variable_error"> Variable don't writing now or not ...</p>
+
+<button type="button" onclick="workWithVars()">Click me, and you see results!</button>
+
+<h1 id="myH"></h1>
+<p id="myP"></p>
+<!-- <button onclick="document.getElementById('price').innerHTML='' "> Click me and you know the result!</button> -->
+<h1 id="price"></h1>
+
+<button onclick="writeText()">Click me and you write some "magic" text</button>
+
+<p id="text"></p>
+
+<hr>
+<h2> The general rules for constructing names for variables (unique identifiers) are: <br>
+    <hr>
+    Names can contain letters, digits, underscores, and dollar signs. <br>
+    <hr>
+    Names must begin with a letters <br>
+    <hr>
+    Names can also begin with $ and _ (but we will not use it in this tutorial) <br>
+    <hr>
+    Names are case sensitive (y and Y are different variables) <br>
+    <hr>
+    Reserved words (like JavaScript keywords) cannot be used as names <br>
+    <hr>
+</h2>
+
+<p> The "equal to" operator is written like == in JavaScript.</p>
+<p> In programming, text values are called text strings.</p>
+
+<h2>JavaScript Variables</h2>
+
+<p>A variable declared without a value will have the value undefined.</p>
+<p id="undefined"></p>
+
+<script>
+    var carName;
+    document.getElementById("undefined").innerHTML = carName;
+</script>
+
+<hr>
+<h2>JavaScript Variables</h2>
+<p>The result of adding 5 + 2 + 3:</p>
+<p id="demos"></p>
+
+<script>
+    var x = 5 + 2 + 3;
+    document.getElementById("demos").innerHTML = x;
+</script>
+
+<p>The result of adding "5" + 2 + 3:</p>
+<p id="demon"></p>
+
+<script>
+    x = "5" + 2 + 3;
+    document.getElementById("demon").innerHTML = x;
+</script>
+
+</body>
+</html>
