@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Functions and objects</title>
+</head>
+<body>
+
+<h3>Hi! And today I will learn the functions and object in JS</h3>
+
+<!-- Set my .js-file in HTML document -->
+<p>This example calls a function which performs a calculation, and returns the result:</p>
+
+<!-- Display the results -->
+<p id="demo"></p>
+<p id="deg"></p>
+<p id="deg_value"></p>
+<p id="txt"></p>
+<p id="demos"></p>
+<p id="object"></p>
+<p id="window"></p>
+<p id="alpha"></p>
+<p id="beta"></p>
+<p id="chars"></p>
+
+<script>
+    // syntax of JS functions
+    function getResult(p1, p2) {
+        //  code to be executed
+        return p1 * p2;
+    }
+    document.getElementById('demo').innerHTML = getResult(2, 6);
+
+    // crete new function (convert fahrenheit to celsius)
+    function convertFahrenheitToCelsius(f) {
+        return (5 / 9) * (f - 32);
+    }
+    document.getElementById("deg").innerHTML = convertFahrenheitToCelsius(64);
+    document.getElementById('deg_value').innerHTML = convertFahrenheitToCelsius;
+
+    function writeText() {
+        var s = "Hello World!";
+        document.getElementById('txt').innerHTML = s;
+    }
+    writeText();
+
+    function myFunction(name) {
+        return "Hello " + name;
+    }
+    document.getElementById("demos").innerHTML = myFunction("John");
+
+    // JS objects
+    var car = {type: "Fiat", model: "500", color: "white"};
+    // window.alert(car.color);
+
+    var person = {firstName: "John", lastName: "Doe", age: 50, eyeColor: "blue"};
+
+    var obj = {name: "Lucas", age: 20, cat: null, nation: "United Kingdom"};
+    //  window.alert(obj.cat);
+
+    // Accessing Object Properties
+
+    // 1 - objectName.propertyName
+    // 2 - objectName["propertyName"]
+
+    var person = {
+        firstName: "John",
+        lastName: "Doe",
+        id: 5566,
+        fullName: function name() {
+            return this.firstName + " " + this.lastName;
+        }
+    };
+
+    document.getElementById("object").innerHTML = person.fullName();
+
+    // Do Not Declare Strings, Numbers, and Booleans as Objects!
+    // Avoid String, Number, and Boolean objects.
+    // They complicate your code and slow down execution speed.
+    var x = new String();        // Declares x as a String object
+    var y = new Number();        // Declares y as a Number object
+    var z = new Boolean();       // Declares z as a Boolean object
+
+    var carName = "Volvo";
+
+    // code here can use window.carName
+    document.getElementById("window").innerHTML = "I can display " + window.carName;
+
+    var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; // Return 26
+    var text = "AEEED;GLKAEGPOA;EKGAPEOFAKEFPOAWFJWipfjmc;s,a.msvidjbogwe23409e"; // Return 63
+    document.getElementById("alpha").innerHTML = txt.length;
+    document.getElementById("beta").innerHTML = text.length;
+
+    // special charapters
+    var foo = 'It\'s alright';
+    var bar = "We are the so-called \"Vikings\" from the north.";
+
+    document.getElementById("chars").innerHTML = foo + "<br>" + bar;
+
+</script>
+
+<span onmouseover="this.style.color='red'">Mouse over me!</span>
+
+<p onclick="this.innerHTML='GOOD JOB!'">Click me.</p>
+
+<button type="button" onclick="this.innerHTML = Date()">Show date and time</button>
+
+<p>A Function is much the same as a Procedure or a Subroutine, in other programming languages.</p>
+<p>JavaScript objects are containers for named values.</p>
+<p>In JavaScript, scope is the set of variables, objects, and functions you have access to.</p>
+
+</body>
+</html>

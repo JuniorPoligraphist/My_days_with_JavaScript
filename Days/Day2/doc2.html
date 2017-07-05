@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+</head>
+<body>
+
+<p> Hello! </p>
+
+<!-- Output -->
+<p id="s1"></p>
+<p id="s2"></p>
+<h3 id="s3"></h3>
+<p id="s4"></p>
+<p id="s5"></p>
+<p id="s6"></p>
+<p id="s7"></p>
+<p id="s8"></p>
+<p id="s9"></p>
+<p id="s10"></p>
+<p id="lower">Quantum Mechanics Is A Very Mystery Science</p>
+<p id="upper">Quantum Mechanics Is A Very Mystery Science</p>
+<p id="s11"></p>
+<p id="s12"></p>
+<p id="loop"></p>
+<p id="loop1"></p>
+
+<script>
+
+    var x = 'It\'s alright';
+    var y = "We are the so-called \\Vikings\\ from the north.";
+    var z = "We are the so-called \'Vikings\' from the north.";
+
+    document.getElementById('s1').innerHTML = x + "<br>" + y;
+    document.getElementById('s2').innerHTML = x + "<br>" + z;
+
+
+    document.getElementById('s3').innerHTML = "Quantum mechanics is a very mystery science";
+
+
+    // Don't create strings as objects. It slows down execution speed.
+    // The new keyword complicates the code. This can produce some unexpected results:
+    var x = "John";
+    var y = new String("John");
+
+    // typeof x will return string
+    // typeof y will return object
+
+    // (x == y) is true because x and y have equal values
+
+    var str = "Please 'locate' where locate occurs!";
+    var pos = str.indexOf("locate"); // Return 8 - work with "1-st 'locate' "
+    // because, we count the length of all letters (with spaces) to the specified string
+    document.getElementById("s4").innerHTML = pos;
+
+    var pos1 = str.lastIndexOf("locate"); // Return 22 - work with "2-nd 'locate' "
+    document.getElementById("s5").innerHTML = pos1;
+
+    // Both the indexOf(), and the lastIndexOf() methods return -1 if the text is not found.
+    var pos2 = str.search("locate"); // Return 7
+
+    // There are 3 methods for extracting a part of a string:
+    // slice(start, end)
+    // substring(start, end)
+    // substr(start, length)
+    var str2 = "Apple, Banana, Kiwi";
+    var res = str2.slice(7, 19);
+    document.getElementById("s6").innerHTML = res; // Return Banana, Kiwi
+
+    var res1 = str2.slice(14);
+    document.getElementById("s7").innerHTML = res1; // Return Kiwi
+
+    var res2 = str2.substring(7); // Return Banana, Kiwi
+    document.getElementById("s8").innerHTML = res2; // Return Kiwi
+
+    var res3 = str2.substr(7, 4); // Return Bana
+    document.getElementById("s9").innerHTML = res3;
+
+    // The replace() method does not change the string it is called on. It returns a new string.
+    var str3 = "Quantum mechanics its a very interest!";
+    var res4 = str3.replace("interest!", "mysterious!");
+    document.getElementById("s10").innerHTML = res4;
+</script>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo">Please visit Microsoft!</p>
+
+<script>
+    function myFunction() {
+        var str4 = document.getElementById("demo").innerHTML;
+        var txt = str4.replace(/MICROSOFT/i, "W3Schools");
+        document.getElementById("demo").innerHTML = txt;
+    }
+
+
+    function convertToLowerCase() {
+        var text = document.getElementById("lower").innerHTML;
+        document.getElementById("lower").innerHTML = text.toLowerCase();
+    }
+
+    function convertToUpperCase() {
+        var text = document.getElementById("upper").innerHTML;
+        document.getElementById("upper").innerHTML = text.toUpperCase();
+    }
+
+    var str5 = "Hello";
+    var str6 = "World!";
+    var str7 = str5.concat(" " + str6);
+    document.getElementById('s11').innerHTML = str7;
+
+
+    var str8 = "HELLO WORLD";
+    str8.charAt(0);            // returns H
+    str8.charCodeAt(0) // returns 72
+    // (look at the UNICODE symbols table:  https://unicode-table.com/ru/#control-character)
+
+</script>
+
+<button onclick="convertToLowerCase()">Try it (LowerCase)</button>
+<button onclick="convertToUpperCase()">Try it (UpperCase)</button>
+
+<button onclick="workWithArrays()">Convert string to array</button>
+
+<script>
+    function workWithArrays() {
+        var str = "a,b,c,d,e,f";
+        var arr = str.split(","); // split() - is the method for convert String to array
+        document.getElementById("s12").innerHTML = arr[3];
+    }
+
+    var s = "Hello World!";
+    var arr = s.split("");
+    var text = "";
+
+    // ok, let's use the "for" loop
+    for (var i = 0; i < arr.length; i++) {
+        text += arr[i] + "<br>";
+    }
+    document.getElementById("loop").innerHTML = text;
+
+    // another some code, but within the function
+    function splitArrays() {
+
+        var s = "Hello World!";
+        var arr = s.split("");
+        var text = "";
+
+        for (var i = 0; i < arr.length; i++) {
+            text += arr[i] + "<br>";
+        }
+        document.getElementById("loop1").innerHTML = text;
+    }
+
+</script>
+
+<button type="button" onclick="splitArrays()">Split array!</button>
+
+
+</body>
+</html>
