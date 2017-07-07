@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Practices</title>
+</head>
+<body>
+<h1>JS Practices</h1>
+
+<p> Avoid global variables, avoid new, avoid ==, avoid eval()</p>
+
+<!-- Output for example1.js -->
+<p id="err1" onclick="getErrors()">Click me to get error!</p>
+<p id="err3"></p>
+<p id="err4"></p>
+
+<p>Input numbers between 5 to 10 (including):</p>
+<input id="err2" type="text">
+<p id="message">Input ...</p>
+
+<button type="button" onclick="checkNumbers()">Check numbers</button>
+<h4>Objects are variables too.</h4>
+<h4> Do not start names with a $ sign. It will put you in conflict with many JavaScript library names.</h4>
+
+<p> Never break a return statement.</p>
+
+<p id="json"></p>
+
+<button onclick="convertJSONTextToJavaScriptObject()">Convert JSON text to JavaScript object</button>
+
+<hr>
+
+<script>
+    window.onload = function start() {
+        var element = document.createElement("script");
+        element.src = "example1.js";
+        document.body.appendChild(element);
+    };
+</script>
+
+
+<form name="myForm" action="/action_page_post.php"
+      onsubmit="return validateFormStatus()" method="post">
+    <label> Name: </label>
+    <input type="text" name="frame">
+    <input type="submit" value="Submit">
+</form>
+
+<br>
+
+<p>New form </p>
+<form name="myForm" action="" method="post">
+    <label> Name: </label>
+    <input type="text" name="frame" required>
+    <input type="submit" value="Submit">
+</form>
+
+<br>
+
+<p>Input numbers from 1 to 10</p>
+<!-- Output for example3.js -->
+<input id="numb">
+
+<script src="example2.js">
+
+</script>
+
+
+<input id="id1" type="number" min="100" max="300" required>
+<button onclick="myFunction()">OK</button>
+
+<p>If the number is less than 100 or greater than 300, an error message will be displayed.</p>
+
+<button type="button" onclick="inputNumbers()">Input numbers</button>
+
+<p id="demo"></p>
+<input id="inp" max="300" min="100" type="number" required>
+
+<p id="inp2"></p>
+<button type="button" onclick="inputObjects()">Input Objects</button>
+
+
+<script src="example3.js">
+
+</script>
+<!-- Output for example3.js -->
+<input id="s1" type="number" max="100" min="10" required>
+<button onclick="rangeOverflow()">OK</button>
+
+<p id="s2">Print number here ...</p>
+
+
+<script src="example4.js">
+
+</script>
+</body>
+</html>
