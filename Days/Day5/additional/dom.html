@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript HTML DOM</title>
+</head>
+
+<!-- CSS Styles -->
+<style>
+    #container {
+        width: 400px;
+        height: 400px;
+        position: relative;
+        background: cyan;
+    }
+
+    #animate {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        background: indigo;
+    }
+</style>
+
+<body>
+
+<!-- Images -->
+<img src="src/head_image.jpg" width="400" height="200">
+<hr>
+<img src="src/Anonymous-mask-and-laptop.jpg" width="400" height="200">
+<hr>
+<img id="kiss" src="src/1.gif" width="400" height="200">
+<hr>
+<img id="kiss_me" src="src/2.gif" width="400" height="200">
+<hr>
+
+<h1>The HTML DOM (Document Object Model)</h1>
+
+<p>The HTML DOM is a standard for how to get, change, add, or delete HTML elements.</p>
+<p> Hello DOM!</p>
+<p>Find me if you can</p>
+
+<p class="intro">"Catch me if you can" - Leo Dicaprio</p>
+<p class="intro">"Good morning my friends!"</p>
+<p id="dom_4">Click me!</p>
+
+<button id="dom_1" onclick="findElmByTgNm()">Change the text</button>
+<button id="dom_2" onclick="findMyByClassNm()">Change the text</button>
+<button id="dom_3" onclick="findElmByQrSel()">Change the text</button>
+
+<button type="button" onclick="findElmByObjCollections()">Click me!</button>
+
+<form id="frm" action="/action_page.php">
+    <label> First name: </label>
+    <input type="text" name="fname" value="Donald"><br>
+    <label> Last name:</label>
+    <input type="text" name="lname" value="Duck"><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+<div id="container">
+    <div id="animate">Me</div>
+</div>
+<button onclick="myMove()">Click me to show animation rectangle!</button>
+
+<p id="dom" onclick="countImages()">Click me!</p>
+<p id="dom_5" onclick="countImages()">Click me!</p>
+<p onclick="showAlertDialog()">CLICK ME!</p>
+<!--<p onclick="changeImage()">Click me too!</p> -->
+
+<script src="dom.js">
+    //    document.getElementById("kiss").src = "2.gif";
+</script>
+
+<script src="/Day2/examples.js">
+
+</script>
+
+</body>
+</html>
