@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Events</title>
+
+    <script src="dom1.js"></script>
+
+</head>
+
+<body onload="myMessage()">
+
+<h1 onclick="this.innerHTML='DOOM3'">DOM Events</h1>
+
+<p onclick="changeText(this)">Example with DOM Events </p>
+<p id="ev_1">Show date here ...</p>
+<p id="ev_2" onclick="checkCookie(this)">Click me! ...</p>
+
+<button type="button" onmouseover="mouseOvr(this)" onmouseout="mouseOut(this)">Text</button>
+<br>
+
+<button type="button" onmouseup="mouseUp(this)" onmousedown="mouseDown(this)">Text</button>
+<button type="button" id="btn" onclick="getDate(this)">Click me!</button>
+<button id="new_btn">Set date now...</button>
+<p id="txt_date">Date</p>
+
+<label>Enter your name:</label>
+<input type="text" id="f_name" onfocus="setBackgroundColor(this)" onchange="changeAllTextToUpperCase()">
+
+<br>
+<h1 id="h_text">CLICK ME! DOM EventListener</h1>
+
+<button id="btn_1" onclick="gamesWithMouse()">Click me</button>
+
+<p id="ev_3">Text</p>
+
+<button type="button" id="btn_2" onclick="multiplaxRezult()">Click me!</button>
+<p id="ev_5">Rez</p>
+<br>
+
+<!--
+<p id="demo">dd</p>
+
+<script>
+  var x = document.getElementById('demo');
+    x.addEventListener("resize", function () {
+        x.innerHTML = Math.floor(Math.random()) + Math.random() + Math.sin(45) + 1;
+    });
+</script>
+-->
+
+<script>
+    function setDateViaListener() {
+        document.getElementById('txt_date').innerHTML = Date();
+    }
+
+    document.getElementById('new_btn').addEventListener("click", setDateViaListener(), false);
+
+    var x;
+    x = document.getElementById('h_text');
+    x.addEventListener("click", myFunction, false);
+    x.addEventListener("click", mySecondFunction, false);
+
+    function myFunction() {
+        alert("Hello World!");
+    }
+
+    function mySecondFunction() {
+        alert("That's is a second function!");
+    }
+
+</script>
+
+</body>
+</html>

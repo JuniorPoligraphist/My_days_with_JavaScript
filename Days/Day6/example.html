@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EventListener</title>
+</head>
+<style>
+    #myDIV {
+        background-color: coral;
+        padding: 50px;
+        color: black;
+    }
+</style>
+<body>
+
+<div id="myDIV"><p> Hello! Press the button and you stop the Math.random() </p>
+    <button onclick="removeHandler()" id="myBtn">Try it</button>
+</div>
+<p id="demo"></p>
+
+<script>
+    document.getElementById("myDIV").addEventListener("mousemove", myFunction);
+
+    function myFunction() {
+        document.getElementById("demo").innerHTML = Math.random();
+    }
+
+    function removeHandler() {
+        document.getElementById("myDIV").removeEventListener("mousemove", myFunction);
+    }
+</script>
+
+</body>
+</html>

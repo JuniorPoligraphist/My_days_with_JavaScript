@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Browser Object Model (BOM)</title>
+</head>
+<body>
+
+<p id="br_1"></p>
+<p id="br_2"></p>
+<p id="br_3"></p>
+<p id="br_4"></p>
+<p id="br_5"></p>
+<p id="br_6"></p>
+<p id="br_7"></p>
+
+<button onclick="setTimeout(newDoc, 2000)">Go to facebook.com</button>
+<button onclick="goBack()">Go in a back page</button>
+<button onclick="goForward()">Go in a forward page</button>
+<button onclick="closeWindow()">Close tab</button>
+<button onclick="setTimeout(confirmButtons, 2000)">Click me!</button>
+<button onclick="promptButtons()">Click me too!</button>
+<button onclick="clearInterval(myVar)">Stop time</button>
+
+<script src="bom.js"></script>
+</body>
+</html>
