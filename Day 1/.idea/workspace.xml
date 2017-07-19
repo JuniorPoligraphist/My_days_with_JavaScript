@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f139186a-9ac0-4c1f-8424-630eb85fe674" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Days/Day10/www.bizico.com/css/styles.css" afterPath="$PROJECT_DIR$/../Days/Day10/www.bizico.com/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Days/Day10/www.bizico.com/index.html" afterPath="$PROJECT_DIR$/../Days/Day10/www.bizico.com/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Days/Day5/additional/dom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dom.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Days/Day5/additional/dom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myBtn</find>
+      <find>btn_2</find>
+      <find>//</find>
+      <find>header-top</find>
+      <find>chose-lang</find>
+      <find>col-md-6 col-sm-6 columns</find>
+      <find>list-inline</find>
+      <find>bg-pattern1</find>
+      <find>.navbar</find>
+      <find>javasc</find>
+      <find>dropdown</find>
+      <find>page-break-after:</find>
+      <find>apple-icon-144x144</find>
+      <find>fa</find>
+      <find>fav</find>
+      <find>favic</find>
+      <find>err</find>
+      <find>apple-touch-icon-precomposed</find>
+      <find>presentation_image</find>
+      <find>preload</find>
+      <find>main-wrapper-header</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JuniorPoligraphist &lt;juniorpoligraphist@gmail.com&gt;" />
+        <option value="Oleksandr &lt;juniorpoligraphist@gmail.com&gt;" />
+        <option value="Ju" />
+        <option value="J" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Days/Day6/bom.js" />
+        <option value="$PROJECT_DIR$/../Days/Day6/1.html" />
+        <option value="$PROJECT_DIR$/../Days/Day6/1.js" />
+        <option value="$PROJECT_DIR$/../Days/Day7/1.html" />
+        <option value="$PROJECT_DIR$/../Days/Day7/examples/1.html" />
+        <option value="$PROJECT_DIR$/../Days/Day7/examples/1.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/1/doc1.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/2/doc2.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/3/doc3.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/4/doc4.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/5/doc5.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/6/doc6.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/5/doc5.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/4/doc4.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/3/doc3.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/2/doc2.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/1/doc1.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/7/doc7.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/7/doc6.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/6/doc6.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/7/doc7.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/8/doc8.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/8/doc8.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/9/doc9.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/9/doc9.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/10/doc10.js" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/10/doc10.html" />
+        <option value="$PROJECT_DIR$/../Days/Day8/tests and answers/README" />
+        <option value="$PROJECT_DIR$/../Days/Day7/example tests/1.html" />
+        <option value="$PROJECT_DIR$/../Days/SOLOLEARN Certificate" />
+        <option value="$PROJECT_DIR$/../Days/Day9/example.js" />
+        <option value="$PROJECT_DIR$/../Days/Day9/js/main.js" />
+        <option value="$PROJECT_DIR$/../Days/Day9/css/styles.css" />
+        <option value="$PROJECT_DIR$/../Days/Day9/index.html" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/js/pdf.worker.js" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/fonts/fontawesome-webfont.svg" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/dist/flip-book.js" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/js/a4501c571516.js" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/js/cfc015df702a.js" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/02c4147c1583.css" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/9fa5b6b77b00.css" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/3807991427cf.css" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/new.html" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/n/s2.css" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/n/s1.css" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/styles.css" />
+        <option value="$PROJECT_DIR$/../Days/Day5/additional/dom.html" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/new index.html" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/index new.html" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/index.html" />
+        <option value="$PROJECT_DIR$/../Days/Day10/www.bizico.com/css/styles.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Days" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Days" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.bizico.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Days" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.bizico.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\static" />
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com" />
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\css" />
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\images\icon" />
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\images\logo" />
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\images\social_networks_icons" />
+      <recent name="D:\My days with JS\Days\Day10\www.bizico.com\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f139186a-9ac0-4c1f-8424-630eb85fe674" name="Default" comment="" />
+      <created>1499285408755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499285408755</updated>
+      <workItem from="1499285409900" duration="40000" />
+      <workItem from="1499330571725" duration="34749000" />
+      <workItem from="1499415172790" duration="5248000" />
+      <workItem from="1499426649901" duration="19197000" />
+      <workItem from="1499505970020" duration="23520000" />
+      <workItem from="1499532316108" duration="11870000" />
+      <workItem from="1499588028848" duration="3080000" />
+      <workItem from="1499594029008" duration="25833000" />
+      <workItem from="1499696402021" duration="13300000" />
+      <workItem from="1499801796844" duration="84000" />
+      <workItem from="1499862743304" duration="109000" />
+      <workItem from="1499862857174" duration="11370000" />
+      <workItem from="1499957725658" duration="3947000" />
+      <workItem from="1500133211877" duration="1984000" />
+      <workItem from="1500234403317" duration="2532000" />
+      <workItem from="1500317475728" duration="1957000" />
+      <workItem from="1500384303326" duration="8399000" />
+      <workItem from="1500398646679" duration="10028000" />
+      <workItem from="1500464883150" duration="1241000" />
+      <workItem from="1500473867054" duration="8937000" />
+    </task>
+    <task id="LOCAL-00001" summary="JS practice">
+      <created>1499370876188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499370876188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JS practice.Day 3">
+      <created>1499370912488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1499370912488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JS practice. Day 4">
+      <created>1499456145013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499456145013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JS practice. Day 5">
+      <created>1499528962837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1499528962837</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JS practice. Day 5 (continue)">
+      <created>1499544454256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1499544454256</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JS practice. Day 6">
+      <created>1499617151714</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1499617151714</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JS practice. Day 7 (tests)">
+      <created>1499710612993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499710612993</updated>
+    </task>
+    <task id="LOCAL-00008" summary="JS practice. Added support IDE files">
+      <created>1499863008555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499863008555</updated>
+    </task>
+    <task id="LOCAL-00009" summary="JS practice. Day 7 (moved files)">
+      <created>1499873490675</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1499873490675</updated>
+    </task>
+    <task id="LOCAL-00010" summary="JS practice. Day 8 (tests)">
+      <created>1499873710702</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1499873710702</updated>
+    </task>
+    <task id="LOCAL-00011" summary="JS practice. Progress in JavaScript">
+      <created>1499960364265</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1499960364265</updated>
+    </task>
+    <task id="LOCAL-00012" summary="JS practice. Day 9. Added Structure files">
+      <created>1500140684611</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1500140684611</updated>
+    </task>
+    <task id="LOCAL-00013" summary="JS practice. Day 9. Completed task">
+      <created>1500236909630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1500236909630</updated>
+    </task>
+    <task id="LOCAL-00014" summary="JS practice. Day 10. Added all need images">
+      <created>1500320808485</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1500320808485</updated>
+    </task>
+    <task id="LOCAL-00015" summary="JS practice. Day 10. Created structure for website">
+      <created>1500408851576</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1500408851576</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187425000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22321428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.49702382" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.71819645" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.71819645" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.85346216" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="Oleksandr" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="JuniorPoligraphist" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="me" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="3" value="103" />
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JS practice" />
+    <MESSAGE value="JS practice.Day 3" />
+    <MESSAGE value="JS practice. Day 4" />
+    <MESSAGE value="JS practice. Day 5" />
+    <MESSAGE value="JS practice. Day 5 (continue)" />
+    <MESSAGE value="JS practice. Day 6" />
+    <MESSAGE value="JS practice. Day 7 (tests)" />
+    <MESSAGE value="JS practice. Added support IDE files" />
+    <MESSAGE value="JS practice. Day 7 (moved files)" />
+    <MESSAGE value="JS practice. Day 8 (tests)" />
+    <MESSAGE value="JS practice. Progress in JavaScript" />
+    <MESSAGE value="JS practice. Day 9. Added Structure files" />
+    <MESSAGE value="JS practice. Day 9. Completed task" />
+    <MESSAGE value="JS practice. Day 10. Added all need images" />
+    <MESSAGE value="JS practice. Day 10. Created structure for website" />
+    <MESSAGE value="JS practice. Day 10. Adding CSS Styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS practice. Day 10. Adding CSS Styles" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Days/Day7/example tests/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="107" column="13" lean-forward="false" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/SOLOLEARN Certificate">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/js/pdf.worker.js" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/dist/flip-book.js" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/files/header/bigger_sky_of_love-wallpaper-2048x1152.jpg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/files/presentation_image/pre.png" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/fonts/fontawesome-webfont.svg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/img/demo/parallax/parallax-landing.jpg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/img/theme/logo_copy.svg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/img/theme/grabbing.png" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/img/theme/AjaxLoader.gif" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/img/theme/revolutionslider/loader.gif" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/thumbnails/storeimages/services/contactsBg_juqbX1m.jpg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/thumbnails/storeimages/services/slide1.jpg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/thumbnails/storeimages/slider/web-designer-mistakes.jpg" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/flip-book/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/js/a4501c571516.js" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/js/cfc015df702a.js" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/02c4147c1583.css" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/9fa5b6b77b00.css" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/3807991427cf.css" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/media_compress/css/n/s2.css" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/new.html" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/logo/bizico.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/social_networks_icons/facebook icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/web_design.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/social_networks_icons/linkedin icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/social_networks_icons/instagram icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/icon/icon 32x32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/presentation.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/static/ico/favicon-32x32.png" />
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/images/icon/icon 144x144.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day7/example tests/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day9/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day9/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day8/tests and answers/2/doc2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day8/tests and answers/2/doc2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1164">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day2/doc1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day2/doc2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day2/doc3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day5/doc1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day1/examples/js_6_syntax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day1/examples/js_first_example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day5/additional/dom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day5/additional/dom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/new index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/index new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="98" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="32" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Days/Day10/www.bizico.com/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
